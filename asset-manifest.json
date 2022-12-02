@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sivaface/static/css/main.48568839.css",
+    "main.js": "/sivaface/static/js/main.380dd3a5.js",
+    "static/js/787.d8f14223.chunk.js": "/sivaface/static/js/787.d8f14223.chunk.js",
+    "index.html": "/sivaface/index.html",
+    "main.48568839.css.map": "/sivaface/static/css/main.48568839.css.map",
+    "main.380dd3a5.js.map": "/sivaface/static/js/main.380dd3a5.js.map",
+    "787.d8f14223.chunk.js.map": "/sivaface/static/js/787.d8f14223.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48568839.css",
+    "static/js/main.380dd3a5.js"
+  ]
+}
